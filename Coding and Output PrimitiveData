@@ -12,3 +12,6 @@ public class PrimitiveData {
 	}
 
 }
+
+Output:
+-1294967296
