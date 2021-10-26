@@ -1,0 +1,22 @@
+package selfProgramming;
+
+public class AssignmentStatements {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("amount = 3.99");
+		System.out.println("firstInitial = 'W'");
+		System.out.println("score = numberOfCards + handicap");
+		System.out.println("eggsPerBasket = eggsPerBasket - 2");
+		
+		double doubleVariable=7;
+		
+		int count = 0;
+		char grade = 'A';
+		System.out.println("The count is "+ count);
+		
+	
+		
+	}
+
+}
