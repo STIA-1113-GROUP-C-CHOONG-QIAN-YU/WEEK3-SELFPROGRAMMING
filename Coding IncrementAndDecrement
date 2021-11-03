@@ -1,0 +1,22 @@
+package selfProgramming;
+
+public class IncrementAndDecrement {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int m = 4;
+		int n=3;
+		int result = 3 * (++m);
+		System.out.println(result);
+		
+		int result2 = 3 * (m++);
+		System.out.println(result2);
+		
+		int result3 = 5+(++n);
+		System.out.println(result3);
+		
+		int result4 = 5+(--n);
+		System.out.println(result4);
+	}
+
+}
